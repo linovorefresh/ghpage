@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ghpage/static/css/main.b71858d0.chunk.css",
+    "main.js": "/ghpage/static/js/main.78568811.chunk.js",
+    "main.js.map": "/ghpage/static/js/main.78568811.chunk.js.map",
+    "runtime~main.js": "/ghpage/static/js/runtime~main.3a099b45.js",
+    "runtime~main.js.map": "/ghpage/static/js/runtime~main.3a099b45.js.map",
+    "static/js/2.d57aaec3.chunk.js": "/ghpage/static/js/2.d57aaec3.chunk.js",
+    "static/js/2.d57aaec3.chunk.js.map": "/ghpage/static/js/2.d57aaec3.chunk.js.map",
+    "index.html": "/ghpage/index.html",
+    "precache-manifest.108d746da4d7b340bbb53a47651d99df.js": "/ghpage/precache-manifest.108d746da4d7b340bbb53a47651d99df.js",
+    "service-worker.js": "/ghpage/service-worker.js",
+    "static/css/main.b71858d0.chunk.css.map": "/ghpage/static/css/main.b71858d0.chunk.css.map"
+  }
+}
